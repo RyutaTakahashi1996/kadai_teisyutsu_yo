@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+ <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
-</head>
-<body>
- <h1>--大見出し--</h1>
+ </head>
+ <body>
+  <h1>--大見出し--</h1>
 
  <h3>--中見出しーー</h3>
   <p>開けろ！デトロイト市警だ！</p>
@@ -23,5 +23,5 @@
  <h5>--小見出し--</h5>
   <P>明日の朝ごはんは塩ラーメンです。</P>
 
-</body>
+ </body>  
 </html>
